@@ -1,5 +1,7 @@
 # semantic-memory-forge
 
+<!-- last-verified: 2026-10-24 -->
+
 Forge verification truth: evidence bundles, export envelopes, execution
 context, causal estimation metadata, and refutation artifacts for the local
 AI systems stack.
